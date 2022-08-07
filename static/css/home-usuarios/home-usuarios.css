@@ -1,0 +1,42 @@
+
+.usuarios-home-content {
+    display: flex;
+    flex-direction: column-reverse;
+    align-items: center;
+}
+
+.img-logo {
+    width: 250px;
+    height: 350px;
+    margin: 1rem 0;
+    border-radius: 20px;
+}
+
+.titulos-credencias-titulos-segmentos {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.usuario-titulo {
+    font-size: 22px;
+    font-weight: 500;
+}
+
+.titulo-plano {
+    margin: 1rem;
+    font-size: 12x;
+    font-weight: 400;
+}
+
+.line {
+    border: 1px solid #E8E9EB;
+    width: 100%;
+    margin: 1rem 0;
+}
+
+.payment {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
